@@ -1,0 +1,2 @@
+# PredictivePros_DataHack
+ समह्GRAH, a comprehensive financial management platform that provides users with a one-stop-shop for their financial needs. The platform includes features like expense tracking, investment recommendations, and broker-assisted investing. We utilized various tools, such as Streamlit, Snowflake, deep learning models, ChatGPT-powered chatbot, and interactive PowerBI dashboards, to create an intuitive and user-friendly experience for our customers.
